@@ -1,0 +1,15 @@
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/bin/Debug/net7.0/degiskenler
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/bin/Debug/net7.0/degiskenler.deps.json
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/bin/Debug/net7.0/degiskenler.runtimeconfig.json
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/bin/Debug/net7.0/degiskenler.dll
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/bin/Debug/net7.0/degiskenler.pdb
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.csproj.AssemblyReference.cache
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.AssemblyInfoInputs.cache
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.AssemblyInfo.cs
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.dll
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/refint/degiskenler.dll
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.pdb
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/degiskenler.genruntimeconfig.cache
+/Users/alpercelik/Desktop/patikaDevC#/degiskenler/obj/Debug/net7.0/ref/degiskenler.dll
